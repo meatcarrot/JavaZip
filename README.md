@@ -1,3 +1,4 @@
+
 # 🖥️ JAVA 알고리즘 스터디 JavaZip 🏠
 - 진행 기간 : 2025.04 - 
 - 스터디 장소 : 디스코드
@@ -60,3 +61,36 @@ week1 / 정한이 / 4문제
   - 왜 이렇게 풀었는지 궁금한 부분
   - 또 다른 풀이 방식 제시
 - 다른 사람이 커밋한 곳에 댓글 다는 방식 or PR로 리뷰
+
+<br/>
+
+<details><summary>👊정보 모음
+</summary>
+
+
+<details><summary> 문제 풀이 관련
+</summary>
+
+- 백준 : [https://www.acmicpc.net/](https://www.acmicpc.net/)
+ - [solved.ac](http://solved.ac/) : [https://solved.ac/](https://solved.ac/)
+- 프로그래머스 : [https://programmers.co.kr/](https://programmers.co.kr/)
+- SWEA : [https://swexpertacademy.com/](https://swexpertacademy.com/)
+
+</details>
+
+
+<details><summary> 알고리즘 문제 풀이
+</summary>
+
+
+</details>
+
+
+<details><summary> 코테 준비
+</summary>
+
+
+</details>
+
+
+</details>
