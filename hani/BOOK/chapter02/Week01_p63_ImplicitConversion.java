@@ -18,3 +18,4 @@ public class Week01_p63_ImplicitConversion {
         dNum = fNum + iNum;
         System.out.println(dNum);
     }
+}
