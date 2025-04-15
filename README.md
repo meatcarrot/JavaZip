@@ -6,7 +6,7 @@
 - **Do it! 자바 프로그래밍 입문** 책으로 진행
 
 [![GitHub](https://img.shields.io/badge/GitHub-자바_예제_저장소-blue?logo=github)](https://github.com/easyspubjava/JavaSecondEdition)
-[![Google Drive](https://img.shields.io/badge/Google_Drive-폴더_열기-brightgreen?logo=google-drive)](https://drive.google.com/drive/u/0/folders/15JrUuaZKzz2DF3lhGJTiJL8Fkvn1ZLN_)
+[![Google Drive](https://img.shields.io/badge/Google_Drive-자바_예제_저장소-brightgreen?logo=google-drive)](https://drive.google.com/drive/u/0/folders/15JrUuaZKzz2DF3lhGJTiJL8Fkvn1ZLN_)
 
 
 <br/>
