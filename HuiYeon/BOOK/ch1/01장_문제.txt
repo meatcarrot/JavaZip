@@ -1,0 +1,20 @@
+01. 프로그램을 기계가 이해할 수 있는 언어로 바꾸는 작업을 컴파일이라고 합니다
+02. 객체지향언어는 자바나 C++와 같이 대상이 되는 객체를 기반으로 프로그램을 구현합니다
+03. 자바로 만든 프로그램은 자바 컴파일러가 설치되어 있으면 운영체제와 상관없이 실행할 수 있습니다
+04. 자바 개발을 위해 설치하는 자바 라이브러리를 JDK라고 합니다
+05. 자바 프로그램이 실행되는 자바 실행 환경을 JRE이라 합니다
+06. package hello;
+
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("이희연");
+    }
+}
+07. package hello;
+
+public class HelloWorld {
+    public static void main(String[] args) {
+	//
+        System.out.println("이희연");
+    }
+}

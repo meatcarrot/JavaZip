@@ -1,0 +1,31 @@
+01. O
+02. X
+03. 부동 소수점 방식
+04. public class test1 {
+    public static void main(String[] args) {
+        int num1 = 10;
+        float num2 = 2.0F;
+        System.out.println(num1+num2);
+    }
+}
+05. public class CharacterEx2 {
+    public static void main(String[] args) {
+        char ch1 = '한';
+        char ch2 = '\uD55C';
+
+        System.out.println(ch1);
+        System.out.println(ch2);
+    }
+}
+06. public class test3 {
+   public static void main(String[] args){
+       int age = 125;
+       System.out.println(age);
+   }
+}
+07. int year = 2018;
+08. 1, 2
+09. 1 - c / 2 - a / 3 - b
+10. Z 90 & 97 a
+11. final / MY_AGE
+12. (int)ch1 / (char)ch2
