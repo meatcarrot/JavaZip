@@ -8,12 +8,14 @@ public class CDM_비밀번호_찾기 {
         Scanner sc = new Scanner(System.in);
 
         String insert = sc.nextLine();
-        String[] arr = insert.split(" ");
+        char[] arr = insert.toCharArray();
 
-        for (String ch : arr){
-            System.out.print(ch + " ");
-            if (ch.equals("c")) break;
+        for (char ch : arr){
+            System.out.print(ch);
+            if (ch == 'c') break;
         }
+        // 파이썬의 for i in arr과 비슷한 문법
+
         System.out.println();
         System.out.println("🧪 " + CDM_비밀번호_찾기.class.getSimpleName() + " 실행!");
     }
