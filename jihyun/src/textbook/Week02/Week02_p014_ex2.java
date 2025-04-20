@@ -1,4 +1,4 @@
-package textbook;
+package textbook.Week02;
 
 public class Week02_p014_ex2 {
     public static void main(String[] args) {
