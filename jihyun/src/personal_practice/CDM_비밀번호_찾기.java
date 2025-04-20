@@ -20,3 +20,4 @@ public class CDM_비밀번호_찾기 {
         System.out.println("🧪 " + CDM_비밀번호_찾기.class.getSimpleName() + " 실행!");
     }
 }
+// git pull origin main
