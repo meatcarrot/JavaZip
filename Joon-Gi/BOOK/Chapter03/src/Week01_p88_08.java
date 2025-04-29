@@ -1,5 +1,3 @@
-package Chapter03;
-
 public class Week01_p88_08 {
     public static void main(String[] args) {
         int mathScore = 90;
