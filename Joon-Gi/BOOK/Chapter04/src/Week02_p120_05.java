@@ -1,5 +1,3 @@
-package Chapter04;
-
 public class Week02_p120_05 {
     public static void main(String[] args) {
         int n = 4;
