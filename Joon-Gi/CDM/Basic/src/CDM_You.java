@@ -6,11 +6,12 @@ public class CDM_You {
 
         String input = scanner.nextLine();
 
-        if (input.equals("You")) {
+        if (input.intern() == "Yes") {
             System.out.println("Me");
         } else {
             System.out.println("No");
         }
+
         /*
         * input == "You" 가 아니라 input.equals("You")를 써야하는 이유
         * 자바에서 문자열을 비교할 때 == 연산자와 equals() 메소드는 완전히 다른 방식으로 동작함

@@ -1,5 +1,3 @@
-package Chapter04;
-
 import java.util.Scanner;
 
 public class Week02_p123_17 {
