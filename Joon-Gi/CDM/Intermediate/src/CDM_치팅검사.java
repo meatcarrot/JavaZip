@@ -6,6 +6,7 @@ public class CDM_치팅검사 {
         Scanner scanner = new Scanner(System.in);
 
         String input = scanner.nextLine();
+
         int n = input.length();
         boolean isCheated = false;
         String answer = "";
