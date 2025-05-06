@@ -19,7 +19,7 @@ public class CDM_치팅검사 {
             String secondPartTarget = input.substring(2*i+(n/2-i), n);
 
             if(firstPart.equals(firstPartTarget) && secondPart.equals(secondPartTarget)) {
-                answer = input.substring(i, 2*i+(n/2-i));
+                answer = input.substring(i, 2*i+(n/2-i)); // first
                 isCheated = true;
 
                 break;
