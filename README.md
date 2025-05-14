@@ -17,7 +17,7 @@
 <!-- 📅 왼쪽 표 -->
 <table>
 <thead>
-<tr><th>스터디 일정</th><th>진도</th></tr>
+<tr><th>스터디 일정</th><th>진도 (입문 책)</th></tr>
 </thead>
 <tbody>
 <tr><td>2025/04/16</td><td>2장 변수와 자료형<br>3장 여러 가지 연산자</td></tr>
@@ -34,18 +34,18 @@
 
 <td>
 
-<!-- 📘 오른쪽 표 예시: 예습/복습 체크 -->
+<!-- 📅 오른쪽 표 -->
 <table>
 <thead>
-<tr><th>날짜</th><th>예습</th><th>복습</th></tr>
+<tr><th>스터디 일정</th><th>진도 (알고리즘)</th></tr>
 </thead>
 <tbody>
-<tr><td>04/16</td><td>✅</td><td>❌</td></tr>
-<tr><td>04/23</td><td>✅</td><td>✅</td></tr>
-<tr><td>04/30</td><td>❌</td><td>❌</td></tr>
-<tr><td>05/07</td><td>✅</td><td>✅</td></tr>
-<tr><td>05/14</td><td>✅</td><td>❌</td></tr>
-<tr><td>05/21</td><td>❌</td><td>❌</td></tr>
+<tr><td>2025/00/00</td><td> <br> </td></tr>
+<tr><td>2025/00/00</td><td> <br> </td></tr>
+<tr><td>2025/00/00</td><td> <br> </td></tr>
+<tr><td>2025/00/00</td><td> <br> </td></tr>
+<tr><td>2025/00/00</td><td> <br> </td></tr>
+<tr><td>2025/00/00</td><td> <br> </td></tr>
 </tbody>
 </table>
 
