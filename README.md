@@ -4,13 +4,13 @@
 - 스터디 장소 : 디스코드
 - 정기 스터디 시간 : 매주 수요일 18:00 ~ 
 - **Do it! 자바 프로그래밍 입문** 책으로 진행
-- **Do it! 자바 알고리즘 코딩테스트** 책으로 진행 예정
+- **Do it! 알고리즘 코딩테스트** 책으로 진행 예정
 
 <**Do it! 자바 프로그래밍 입문**>
 [![GitHub](https://img.shields.io/badge/GitHub-자바_예제_저장소-blue?logo=github)](https://github.com/easyspubjava/JavaSecondEdition)
 [![Google Drive](https://img.shields.io/badge/Google_Drive-자바_정답_저장소-brightgreen?logo=google-drive)](https://drive.google.com/drive/u/0/folders/1f1m74UvC2tQ47hLFwAemjt4MBkEQNI7A)
 
-
+<**Do it! 알고리즘 코딩테스트**>
 
 <table>
 <tr>
