@@ -14,7 +14,7 @@
 <tr>
 <td>
 
-<!-- 📅 왼쪽 표 (기존 그대로 유지) -->
+<!-- 📅 왼쪽 표  -->
 <table>
 <thead>
 <tr>
@@ -37,7 +37,7 @@
 
 <td>
 
-<!-- ✅ 오른쪽 표: 전체 너비 강제 지정 -->
+<!-- 📅 오른쪽 표 -->
 <table style="width: 400px; table-layout: fixed;">
 <thead>
 <tr>
@@ -46,12 +46,12 @@
 </tr>
 </thead>
 <tbody>
-<tr><td>2025/04/16</td><td>&nbsp;</td></tr>
-<tr><td>2025/04/23</td><td>&nbsp;</td></tr>
-<tr><td>2025/04/30</td><td>&nbsp;</td></tr>
-<tr><td>2025/05/07</td><td>&nbsp;</td></tr>
-<tr><td>2025/05/14</td><td>&nbsp;</td></tr>
-<tr><td>2025/05/21</td><td>&nbsp;</td></tr>
+<tr><td>2025/00/00</td><td>미<br>정</td></tr>
+<tr><td>2025/00/00</td><td>미<br>정</td></tr>
+<tr><td>2025/00/00</td><td>미<br>정</td></tr>
+<tr><td>2025/00/00</td><td>미<br>정</td></tr>
+<tr><td>2025/00/00</td><td>미<br>정</td></tr>
+<tr><td>2025/00/00</td><td>미<br>정</td></tr>
 </tbody>
 </table>
 
