@@ -51,12 +51,12 @@
 </tr>
 </thead>
 <tbody>
-<tr><td>2025/00/00</td><td>미<br>정</td></tr>
-<tr><td>2025/00/00</td><td>미<br>정</td></tr>
-<tr><td>2025/00/00</td><td>미<br>정</td></tr>
-<tr><td>2025/00/00</td><td>미<br>정</td></tr>
-<tr><td>2025/00/00</td><td>미<br>정</td></tr>
-<tr><td>2025/00/00</td><td>미<br>정</td></tr>
+<tr><td>2025/00/00</td><td>.<br>.</td></tr>
+<tr><td>2025/00/00</td><td>.<br>.</td></tr>
+<tr><td>2025/00/00</td><td>.<br>.</td></tr>
+<tr><td>2025/00/00</td><td>.<br>.</td></tr>
+<tr><td>2025/00/00</td><td>.<br>.</td></tr>
+<tr><td>2025/00/00</td><td>.<br>.</td></tr>
 </tbody>
 </table>
 
