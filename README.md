@@ -14,7 +14,7 @@
 <tr>
 <td>
 
-<!-- 📅 왼쪽 표 -->
+<!-- 📅 왼쪽 표 (기존 그대로 유지) -->
 <table>
 <thead>
 <tr>
@@ -23,12 +23,12 @@
 </tr>
 </thead>
 <tbody>
-<tr><td style="width: 100px;">2025/04/16</td><td style="width: 300px;">2장 변수와 자료형<br>3장 여러 가지 연산자</td></tr>
-<tr><td style="width: 100px;">2025/04/23</td><td style="width: 300px;">4장 제어 흐름<br>5장 클래스와 객체 1</td></tr>
-<tr><td style="width: 100px;">2025/04/30</td><td style="width: 300px;">6장 클래스와 객체 2<br>7장 배열과 ArrayList</td></tr>
-<tr><td style="width: 100px;">2025/05/07</td><td style="width: 300px;">8장 상속과 다형성<br>9장 추상 클래스</td></tr>
-<tr><td style="width: 100px;">2025/05/14</td><td style="width: 300px;">10장 인터페이스<br>11장 JDK 기본 클래스</td></tr>
-<tr><td style="width: 100px;">2025/05/21</td><td style="width: 300px;">12장 컬렉션 프레임워크<br>13장 내부 클래스, 람다, 스트림</td></tr>
+<tr><td>2025/04/16</td><td>2장 변수와 자료형<br>3장 여러 가지 연산자</td></tr>
+<tr><td>2025/04/23</td><td>4장 제어 흐름<br>5장 클래스와 객체 1</td></tr>
+<tr><td>2025/04/30</td><td>6장 클래스와 객체 2<br>7장 배열과 ArrayList</td></tr>
+<tr><td>2025/05/07</td><td>8장 상속과 다형성<br>9장 추상 클래스</td></tr>
+<tr><td>2025/05/14</td><td>10장 인터페이스<br>11장 JDK 기본 클래스</td></tr>
+<tr><td>2025/05/21</td><td>12장 컬렉션 프레임워크<br>13장 내부 클래스, 람다, 스트림</td></tr>
 </tbody>
 </table>
 
@@ -37,8 +37,8 @@
 
 <td>
 
-<!-- 📅 오른쪽 표 -->
-<table>
+<!-- ✅ 오른쪽 표: 전체 너비 강제 지정 -->
+<table style="width: 400px; table-layout: fixed;">
 <thead>
 <tr>
   <th style="width: 100px;">스터디 일정</th>
@@ -46,18 +46,19 @@
 </tr>
 </thead>
 <tbody>
-<tr><td style="width: 100px;">2025/04/16</td><td style="width: 300px;"> </td></tr>
-<tr><td style="width: 100px;">2025/04/23</td><td style="width: 300px;"> </td></tr>
-<tr><td style="width: 100px;">2025/04/30</td><td style="width: 300px;"> </td></tr>
-<tr><td style="width: 100px;">2025/05/07</td><td style="width: 300px;"> </td></tr>
-<tr><td style="width: 100px;">2025/05/14</td><td style="width: 300px;"> </td></tr>
-<tr><td style="width: 100px;">2025/05/21</td><td style="width: 300px;"> </td></tr>
+<tr><td>2025/04/16</td><td> </td></tr>
+<tr><td>2025/04/23</td><td> </td></tr>
+<tr><td>2025/04/30</td><td> </td></tr>
+<tr><td>2025/05/07</td><td> </td></tr>
+<tr><td>2025/05/14</td><td> </td></tr>
+<tr><td>2025/05/21</td><td> </td></tr>
 </tbody>
 </table>
 
 </td>
 </tr>
 </table>
+
 
 
 
