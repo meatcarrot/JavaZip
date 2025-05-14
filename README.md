@@ -11,8 +11,8 @@
 [![Google Drive](https://img.shields.io/badge/Google_Drive-자바_정답_저장소-brightgreen?logo=google-drive)](https://drive.google.com/drive/u/0/folders/1f1m74UvC2tQ47hLFwAemjt4MBkEQNI7A)
 
 <**Do it! 알고리즘 코딩테스트(자바편)**>
-[![GitHub](https://img.shields.io/badge/GitHub-자바_예제_저장소-blue?logo=github)](https://github.com/doitcodingtest/java)
-[![Google Drive](https://img.shields.io/badge/Google_Drive-자바_정답_저장소-brightgreen?logo=google-drive)](https://drive.google.com/file/d/1x5Y1zxl41mUQpq0V7sK4yve2QHqyTje_/view)
+[![GitHub](https://img.shields.io/badge/GitHub-자바_정답_저장소-blue?logo=github)](https://github.com/doitcodingtest/java)
+[![Google Drive](https://img.shields.io/badge/Google_Drive-자바_정답_저장소(Zip)-brightgreen?logo=google-drive)](https://drive.google.com/file/d/1x5Y1zxl41mUQpq0V7sK4yve2QHqyTje_/view)
 
 
 <table>
