@@ -17,7 +17,10 @@
 <!-- 📅 왼쪽 표 -->
 <table>
 <thead>
-<tr><th>스터디 일정</th><th>진도 (입문 책)</th></tr>
+<tr>
+  <th style="width: 100px;">스터디 일정</th>
+  <th style="width: 300px;">진도 (입문 책)</th>
+</tr>
 </thead>
 <tbody>
 <tr><td>2025/04/16</td><td>2장 변수와 자료형<br>3장 여러 가지 연산자</td></tr>
@@ -30,28 +33,32 @@
 </table>
 
 </td>
-<td style="width: 50px;"></td> <!-- 👉 표 사이 간격 -->
+<td style="width: 50px;"></td> <!-- 표 간 간격 -->
 
 <td>
 
 <!-- 📅 오른쪽 표 -->
 <table>
 <thead>
-<tr><th>스터디 일정</th><th>진도 (알고리즘)</th></tr>
+<tr>
+  <th style="width: 100px;">스터디 일정</th>
+  <th style="width: 300px;">진도 (알고리즘)</th>
+</tr>
 </thead>
 <tbody>
-<tr><td>2025/00/00</td><td> <br> </td></tr>
-<tr><td>2025/00/00</td><td> <br> </td></tr>
-<tr><td>2025/00/00</td><td> <br> </td></tr>
-<tr><td>2025/00/00</td><td> <br> </td></tr>
-<tr><td>2025/00/00</td><td> <br> </td></tr>
-<tr><td>2025/00/00</td><td> <br> </td></tr>
+<tr><td>2025/04/16</td><td> <br> </td></tr>
+<tr><td>2025/04/23</td><td> <br> </td></tr>
+<tr><td>2025/04/30</td><td> <br> </td></tr>
+<tr><td>2025/05/07</td><td> <br> </td></tr>
+<tr><td>2025/05/14</td><td> <br> </td></tr>
+<tr><td>2025/05/21</td><td> <br> </td></tr>
 </tbody>
 </table>
 
 </td>
 </tr>
 </table>
+
 
 
 ### 📌파일 이름 통일
