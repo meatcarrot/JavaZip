@@ -24,7 +24,7 @@
 <thead>
 <tr>
   <th style="width: 100px;">스터디 일정</th>
-  <th style="width: 300px;">진도 (입문)</th>
+  <th style="width: 300px;">진도 (프로그래밍 입문)</th>
 </tr>
 </thead>
 <tbody>
