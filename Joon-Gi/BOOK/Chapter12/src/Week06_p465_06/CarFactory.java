@@ -21,6 +21,7 @@ class CarFactory {
         }
         Car car = new Car();
         carMap.put(name, car);
+
         return car;
     }
 }
