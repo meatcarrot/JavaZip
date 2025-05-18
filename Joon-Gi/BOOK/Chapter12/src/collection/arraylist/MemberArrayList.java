@@ -15,6 +15,15 @@ public class MemberArrayList {
         arrayList.add(member);
     }
 
+    // p465_08
+    public void insertMember(int index, Member member) {
+        if (index<0 || index>arrayList.size()+1) {
+            System.out.println("인덱스 오류");
+            return;
+        }
+        arrayList.add(index-1, member);
+    }
+
     public boolean removeMember(int memberId) {
 //        for (int i=0; i<arrayList.size(); i++) {
 //            Member member = arrayList.get(i);
