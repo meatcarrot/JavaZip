@@ -1,7 +1,7 @@
 public class PGS_피보나치수_overflow {
-    public static int solution(int n) {
-        int answer = 0;
-        int fibo = fibonacci2(n);
+    public static long solution(int n) {
+        long answer = 0L;
+        long fibo = fibonacci(n);
 
         answer = fibo % 1234567;
 
@@ -9,7 +9,7 @@ public class PGS_피보나치수_overflow {
     }
 
     // 1. 피보나치 재귀 [X]
-    public static int fibonacci(int i) {
+    public static long fibonacci(long i) {
         if(i<=0) return 0;
         else if(i==1) return 1;
         else {
@@ -36,7 +36,7 @@ public class PGS_피보나치수_overflow {
      }
 
     public static void main(String[] args) {
-        int s = solution(95034);
+        long s = solution(95034);
 
         System.out.println("answer: " + s);
     }

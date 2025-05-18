@@ -24,6 +24,8 @@ public class PGS_단속카메라 {
 //            System.out.println();
 //        }
 
+
+
         // 첫 번째 카메라 설치
         int answer = 1;
         // 첫 번째 차량의 진출 지점에 카메라 설치
@@ -51,3 +53,7 @@ public class PGS_단속카메라 {
     }
 }
 
+-20     -15
+    -18      -13
+          -14      -5
+                    -5    -3
