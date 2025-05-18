@@ -51,6 +51,7 @@ public class MemberArrayList {
         for (Member member : arrayList) {
             System.out.println(member);
         }
+
         System.out.println();
     }
 }

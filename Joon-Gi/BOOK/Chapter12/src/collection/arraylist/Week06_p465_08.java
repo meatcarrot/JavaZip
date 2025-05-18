@@ -17,7 +17,6 @@ public class Week06_p465_08 {
         memberArrayList.insertMember(3, memberHong);
 
         memberArrayList.showAllMember();
-
         memberArrayList.removeMember(memberHong.getMemberId());
         memberArrayList.showAllMember();
     }
