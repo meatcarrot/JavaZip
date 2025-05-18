@@ -15,6 +15,7 @@ public class MemberTreeSetTest {
         memberTreeSet.addMember(memberPark);
 
         Member memberHong = new Member(1003, "홍길동");
+
         memberTreeSet.addMember(memberHong);
         memberTreeSet.showAllMember();
     }

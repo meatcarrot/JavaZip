@@ -51,7 +51,6 @@ public class Member implements Comparable<Member> {
     @Override
     public int compareTo(Member member) {
         // return (this.memberId - member.memberId);
-
         // p465_09
         return this.memberName.compareTo(member.memberName);
     }
