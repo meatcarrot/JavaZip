@@ -19,7 +19,7 @@ public class PGS_서버증설횟수 {
 //                }
 //            }
             Iterator<Server> ir = serverList.iterator();
-            while(ir.hasNext()) {
+            while (ir.hasNext()) {
                 Server server = ir.next();
                 if (i == server.getEndTime()) {
                     ir.remove();
