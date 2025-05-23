@@ -18,7 +18,7 @@ public class Student {
     public boolean equals(Object obj) {
         if (obj instanceof Student) {
             Student student = (Student) obj;
-            if (student.studentId == this.studentId) {
+            if (student.studentId.equals(this.studentId)) {
                 return true;
             } else {
                 return false;
