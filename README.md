@@ -23,13 +23,14 @@
 <table>
 <thead>
 <tr>
+  <th style="width: 50px;">회차</th>
   <th style="width: 100px;">스터디 일정</th>
   <th style="width: 300px;">진도 (프로그래밍 입문)</th>
 </tr>
 </thead>
 <tbody>
 <tr><td>1회차</td><td>2025/04/16</td><td>2장 변수와 자료형<br>3장 여러 가지 연산자</td></tr>
-<tr><td>2025/04/23</td><td>4장 제어 흐름<br>5장 클래스와 객체 1</td></tr>
+<tr><td>2회차</td><td>2025/04/23</td><td>4장 제어 흐름<br>5장 클래스와 객체 1</td></tr>
 <tr><td>2025/04/30</td><td>6장 클래스와 객체 2<br>7장 배열과 ArrayList</td></tr>
 <tr><td>2025/05/07</td><td>8장 상속과 다형성<br>9장 추상 클래스</td></tr>
 <tr><td>2025/05/14</td><td>10장 인터페이스<br>11장 JDK 기본 클래스</td></tr>
