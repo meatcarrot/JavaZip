@@ -49,23 +49,24 @@
 <table style="width: 400px; table-layout: fixed;">
 <thead>
 <tr>
+  <th style="width: 20px;">회차</th>
   <th style="width: 100px;">스터디 일정</th>
   <th style="width: 300px;">진도 (알고리즘 코딩테스트)</th>
 </tr>
 </thead>
 <tbody>
-<tr><td>2025/06/04</td><td>1장 시간복잡도<br>2장 디버깅</td></tr>
-<tr><td>2025/06/11</td><td>3장 자료구조</td></tr>
-<tr><td>2025/06/18</td><td>4장 정렬</td></tr>
-<tr><td>2025/06/25</td><td>5장 탐색</td></tr>
-<tr><td>2025/07/02</td><td>6장 그리디 알고리즘</td></tr>
-<tr><td>2025/07/09</td><td>7장 정수론</td></tr>
-<tr><td>2025/07/16</td><td>8장 그래프 08-4</td></tr>
-<tr><td>2025/07/23</td><td>8장 그래프 08-7</td></tr>
-<tr><td>2025/07/30</td><td>9장 트리</td></tr>
-<tr><td>2025/08/06</td><td>10장 조합</td></tr>
-<tr><td>2025/08/13</td><td>11장 동적 계획법</td></tr>
-<tr><td>2025/08/20</td><td>12장 기하</td></tr>
+<tr><td>8회차</td><td>2025/06/04</td><td>1장 시간복잡도<br>2장 디버깅</td></tr>
+<tr><td>9회차</td><td>2025/06/11</td><td>3장 자료구조</td></tr>
+<tr><td>10회차</td><td>2025/06/18</td><td>4장 정렬</td></tr>
+<tr><td>11회차</td><td>2025/06/25</td><td>5장 탐색</td></tr>
+<tr><td>12회차</td><td>2025/07/02</td><td>6장 그리디 알고리즘</td></tr>
+<tr><td>13회차</td><td>2025/07/09</td><td>7장 정수론</td></tr>
+<tr><td>14회차</td><td>2025/07/16</td><td>8장 그래프 08-4</td></tr>
+<tr><td>15회차</td><td>2025/07/23</td><td>8장 그래프 08-7</td></tr>
+<tr><td>16회차</td><td>2025/07/30</td><td>9장 트리</td></tr>
+<tr><td>17회차</td><td>2025/08/06</td><td>10장 조합</td></tr>
+<tr><td>18회차</td><td>2025/08/13</td><td>11장 동적 계획법</td></tr>
+<tr><td>19회차</td><td>2025/08/20</td><td>12장 기하</td></tr>
 </tbody>
 </table>
 
