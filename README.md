@@ -51,7 +51,7 @@
 <tr>
   <th style="width: 20px;">회차</th>
   <th style="width: 100px;">스터디 일정</th>
-  <th style="width: 300px;">진도 (알고리즘 코테)</th>
+  <th style="width: 300px;">진도 (알고리즘 코딩테스트)</th>
 </tr>
 </thead>
 <tbody>
