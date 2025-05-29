@@ -1,6 +1,6 @@
 
 # 🖥️ JAVA 알고리즘 스터디 JavaZip 🏠
-- 진행 기간 : 2025.04.16 - 
+- 진행 기간 : 2025.04.09 - 
 - 스터디 장소 : 디스코드
 - 정기 스터디 시간 : 매주 수요일 18:00 ~ 
 - **Do it! 자바 프로그래밍 입문** 책으로 진행
@@ -23,17 +23,20 @@
 <table>
 <thead>
 <tr>
+  <th style="width: 20px;">회차</th>
   <th style="width: 100px;">스터디 일정</th>
   <th style="width: 300px;">진도 (프로그래밍 입문)</th>
 </tr>
 </thead>
 <tbody>
-<tr><td>2025/04/16</td><td>2장 변수와 자료형<br>3장 여러 가지 연산자</td></tr>
-<tr><td>2025/04/23</td><td>4장 제어 흐름<br>5장 클래스와 객체 1</td></tr>
-<tr><td>2025/04/30</td><td>6장 클래스와 객체 2<br>7장 배열과 ArrayList</td></tr>
-<tr><td>2025/05/07</td><td>8장 상속과 다형성<br>9장 추상 클래스</td></tr>
-<tr><td>2025/05/14</td><td>10장 인터페이스<br>11장 JDK 기본 클래스</td></tr>
-<tr><td>2025/05/21</td><td>12장 컬렉션 프레임워크<br>13장 내부 클래스, 람다, 스트림</td></tr>
+<tr><td>1회차</td><td>2025/04/16</td><td>2장 변수와 자료형<br>3장 여러 가지 연산자</td></tr>
+<tr><td>2회차</td><td>2025/04/23</td><td>4장 제어 흐름<br>5장 클래스와 객체 1</td></tr>
+<tr><td>3회차</td><td>2025/04/30</td><td>6장 클래스와 객체 2<br>7장 배열과 ArrayList</td></tr>
+<tr><td>4회차</td><td>2025/05/07</td><td>8장 상속과 다형성<br>9장 추상 클래스</td></tr>
+<tr><td>5회차</td><td>2025/05/14</td><td>10장 인터페이스<br>11장 JDK 기본 클래스</td></tr>
+<tr><td>6회차</td><td>2025/05/21</td><td>12장 컬렉션 프레임워크<br>13장 람다, 스트림</td></tr>
+<tr><td>7회차</td><td>2025/05/28</td><td>14장 예외 처리<br>15장 자바 입출력</td></tr>
+<tr><td>8회차</td><td>2025/06/04</td><td>16장 스레드</td></tr>
 </tbody>
 </table>
 
@@ -46,17 +49,24 @@
 <table style="width: 400px; table-layout: fixed;">
 <thead>
 <tr>
+  <th style="width: 20px;">회차</th>
   <th style="width: 100px;">스터디 일정</th>
   <th style="width: 300px;">진도 (알고리즘 코딩테스트)</th>
 </tr>
 </thead>
 <tbody>
-<tr><td>2025/00/00</td><td>.<br>.</td></tr>
-<tr><td>2025/00/00</td><td>.<br>.</td></tr>
-<tr><td>2025/00/00</td><td>.<br>.</td></tr>
-<tr><td>2025/00/00</td><td>.<br>.</td></tr>
-<tr><td>2025/00/00</td><td>.<br>.</td></tr>
-<tr><td>2025/00/00</td><td>.<br>.</td></tr>
+<tr><td> 8회차</td><td>2025/06/04</td><td>1장 시간복잡도<br>2장 디버깅</td></tr>
+<tr><td> 9회차</td><td>2025/06/11</td><td>3장 자료구조</td></tr>
+<tr><td>10회차</td><td>2025/06/18</td><td>4장 정렬</td></tr>
+<tr><td>11회차</td><td>2025/06/25</td><td>5장 탐색</td></tr>
+<tr><td>12회차</td><td>2025/07/02</td><td>6장 그리디 알고리즘</td></tr>
+<tr><td>13회차</td><td>2025/07/09</td><td>7장 정수론</td></tr>
+<tr><td>14회차</td><td>2025/07/16</td><td>8장 그래프 08-4</td></tr>
+<tr><td>15회차</td><td>2025/07/23</td><td>8장 그래프 08-7</td></tr>
+<tr><td>16회차</td><td>2025/07/30</td><td>9장 트리</td></tr>
+<tr><td>17회차</td><td>2025/08/06</td><td>10장 조합</td></tr>
+<tr><td>18회차</td><td>2025/08/13</td><td>11장 동적 계획법</td></tr>
+<tr><td>19회차</td><td>2025/08/20</td><td>12장 기하</td></tr>
 </tbody>
 </table>
 
