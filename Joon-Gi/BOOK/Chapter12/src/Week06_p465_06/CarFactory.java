@@ -1,6 +1,9 @@
 package Week06_p465_06;
 
+import collection.Member;
+
 import java.util.HashMap;
+import java.util.Iterator;
 
 class CarFactory {
     private static CarFactory instance = new CarFactory();
