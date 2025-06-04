@@ -9,7 +9,7 @@ public class Week07_p540_IDFormat {
             test.setUserID(userID);
         } catch (IDFormatException e) {
             System.out.println(e.getMessage());
-            // getMessage()로 Exception 클래스에 저장되어 있는 사용자가 작성한 메시지 가져옴
+            // getMessage()로 Exception 클래스에 저장되어 있는 사용자가 작성한 메시지 가져옴.
         }
 
         userID = "1234567";
