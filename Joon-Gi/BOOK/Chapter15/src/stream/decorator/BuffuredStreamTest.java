@@ -8,7 +8,8 @@ public class BuffuredStreamTest {
         try (FileInputStream fis = new FileInputStream("Chapter15/src/stream/decorator/a.rar");
              FileOutputStream fos = new FileOutputStream("Chapter15/src/stream/decorator/copy.rar");
              BufferedInputStream bis = new BufferedInputStream(fis);
-             BufferedOutputStream bos = new BufferedOutputStream(fos)) {
+             BufferedOutputStream bos = new BufferedOutputStream(fos)
+             ) {
             milisecond = System.currentTimeMillis();
             int i;
             while ((i = bis.read()) != -1) {
