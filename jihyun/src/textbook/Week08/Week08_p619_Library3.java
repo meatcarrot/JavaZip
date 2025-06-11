@@ -52,7 +52,7 @@ class Library3 {
     public synchronized void returnBook(String book) {
         Thread t = Thread.currentThread(); // 지금 실행 중인 스레드를 나타내는 객체를 반환
         shelf.add(book);
-        notifyAll(); // 모드 스레드에게 알림이 통지됨 -> CPU를 차지하지 못한 스레드들이 경쟁함
+        notifyAll(); // 모든 스레드에게 알림이 통지됨 -> CPU를 차지하지 못한 스레드들이 경쟁함
         System.out.println(t.getName() + ":" + book + " return");
     }
 }
