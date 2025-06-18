@@ -2,7 +2,7 @@ package textbook.Week09.Chapter3_자료구조;
 
 import java.util.Scanner;
 
-public class _001_숫자의_합_구하기 {
+public class _001_숫자의_합_구하기_P11720 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         // nextInt() : 정수 값 하나만 입력 받을 때 사용

@@ -7,7 +7,7 @@ import java.util.Arrays;
 // import java.util.Scanner;
 import java.util.StringTokenizer;
 
-public class _007_주몽의_명령 {
+public class _007_주몽의_명령_P1940 {
     public static void main(String[] args) throws IOException {
         // Scanner scanner = new Scanner(System.in);
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

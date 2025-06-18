@@ -2,7 +2,7 @@ package textbook.Week09.Chapter3_자료구조;
 
 import java.util.Scanner;
 
-public class _002_평균_구하기 {
+public class _002_평균_구하기_P1546 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
