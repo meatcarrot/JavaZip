@@ -4,7 +4,7 @@ package textbook.Week09.Chapter3_자료구조;
 
 import java.util.Scanner;
 
-public class _006_연속된_자연수의_합_구하기 {
+public class _006_연속된_자연수의_합_구하기_P2018 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

@@ -5,7 +5,7 @@ package textbook.Week09.Chapter3_자료구조;
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class _003_2_구간_합_구하기 {
+public class _003_2_구간_합_구하기_P11659 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         // System.in : 표준 입력 스트림 (바이트 기반)
